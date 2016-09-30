@@ -20,11 +20,6 @@
 </div>
 
 <div>
-    - <strong>JSHint Gutter</strong> (https://github.com/victorporof/Sublime-JSHint)
-    <i></i>
-</div>
-
-<div>
     - <strong>JS Format</strong> (https://github.com/jdc0589/JsFormat)
     <i>Javascript formatting plugin for Sublime Text. It uses jsbeautifier to format whole js or json files, or the selected portion(s).</i>
 </div>
